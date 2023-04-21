@@ -268,7 +268,7 @@ DOMAIN-SUFFIX,nfl.com,Direct
 DOMAIN-SUFFIX,nicovideo.jp,Direct
 DOMAIN-SUFFIX,nih.gov,Direct
 DOMAIN-SUFFIX,oeeee.com,Direct
-DOMAIN-SUFFIX,office.com,Direct
+DOMAIN-SUFFIX,office.com,Proxy
 DOMAIN-SUFFIX,ok.ru,Direct
 DOMAIN-SUFFIX,onclickads.net,Direct
 DOMAIN-SUFFIX,onclickpredictiv.com,Direct
