@@ -254,7 +254,7 @@ DOMAIN-SUFFIX,mega.nz,Direct
 DOMAIN-SUFFIX,mercadolibre.com.ar,Direct
 DOMAIN-SUFFIX,mercadolivre.com.br,Direct
 DOMAIN-SUFFIX,mi.com,Direct
-DOMAIN-SUFFIX,microsoft.com,Direct
+DOMAIN-SUFFIX,microsoft.com,Proxy
 DOMAIN-SUFFIX,mozilla.org,Direct
 DOMAIN-SUFFIX,msn.com,Direct
 DOMAIN-SUFFIX,myway.com,Direct
