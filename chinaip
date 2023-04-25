@@ -24,8 +24,8 @@ DOMAIN-SUFFIX,paypal.me,DIRECT
 DOMAIN-SUFFIX,paypal-mktg.com,DIRECT
 DOMAIN-SUFFIX,paypalobjects.com,DIRECT
 # > Steam
-DOMAIN-SUFFIX,cm.steampowered.com,DIRECT
-DOMAIN-SUFFIX,steamserver.net,DIRECT
+DOMAIN-SUFFIX,cm.steampowered.com,Proxy
+DOMAIN-SUFFIX,steamserver.net,Proxy
 # > Tencent
 IP-CIDR,182.254.116.0/24,DIRECT
 IP-CIDR,203.205.238.0/23,DIRECT
