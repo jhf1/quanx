@@ -5180,6 +5180,10 @@ DOMAIN-SUFFIX,wikilivres.info,Proxy
 DOMAIN-SUFFIX,wikimapia.org,Proxy
 DOMAIN-SUFFIX,wikipedia.org,Proxy
 DOMAIN-SUFFIX,wikiwiki.jp,Proxy
+DOMAIN-SUFFIX,namu.wiki,Proxy
+DOMAIN-SUFFIX,wikia.com,Proxy
+DOMAIN-SUFFIX,wikihow.com,Proxy
+DOMAIN-SUFFIX,wikimedia.org,Proxy
 DOMAIN-SUFFIX,wildammo.com,Proxy
 DOMAIN-SUFFIX,williamhill.com,Proxy
 DOMAIN-SUFFIX,willw.net,Proxy
